@@ -1,0 +1,16 @@
+﻿THis is a dummy todo file
+	Line 1
+	with subitems
+[ ] Duplicate TODO Item
+	I just added a new line
+	Another New Line
+[ ] Duplicate TODO Item  
+	Line 2
+	Line 3
+	
+	            [ ] THis item has a postfix _::
+
+blasdf
+[ ] Todo item
+
+ 

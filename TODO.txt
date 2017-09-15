@@ -1,0 +1,24 @@
+﻿TODO
+
+DONE 
+	[x] A comment line or blank line should break the parenting
+
+	[x] Implement TIMETOLIVE setting
+	[x] Modifying an item should update the date on it's children
+
+	[x] Keep a backup folder with time-based generations
+	[x] BUG: Don't Decorate comments
+	[x] Add alfred section to files that don't have it.  Include default settings in the section
+	[x] Implement COMMENT tags
+	[x] Implement START and END tags
+	[x] Implement DONE expression
+	[x] Implement Include Indented SubItems
+
+	[x] Read in a file from the command line
+	[x] Find contents 
+	[x] What about duplicate lines? (Alfred should decorate them)      
+	[x] Store to a memory file [DateFirstSeen]...Contents...
+	[x] Read a memory file
+	[x] Merge a new file into the memory file
+	[x] Store old items into a _Freezer file and fix the todo file
+	[x] Think about how to be safe with writing these files so we don't lose data.  Probably write backup, then freezer and done, then alfred, then todo last
