@@ -1,4 +1,15 @@
 ﻿TODO
+    [ ] Alfred: when cleaning up a sub-bullet with an unfinished parent, include the parent in the done file
+    [ ] Allow line skipping for indented text
+    [ ] Restructure the processing:
+        [ ] Get items as trees
+        [ ] Pay attention to delimiters for grouping so that text under the delimiter does not have to be decorated
+        [ ] The signature of an item should be all of the text that is part of it
+        [ ] Store as a JSON document
+        [ ] Working on a sub-part always refreshes the parent
+    [ ] JIRA integration
+        [ ] Must run with -archive parameter to actually archive stuff
+        [ ] Is there a good text editing library?
 
 DONE 
 	[x] A comment line or blank line should break the parenting
