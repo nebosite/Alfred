@@ -11,6 +11,7 @@ namespace Alfred
     {
         public int IndentSize { get; set; }
         public string Contents { get; set; }
+        public bool IsComment { get; set; }
         public List<DocumentSection> Children { get; set; } = new List<DocumentSection>();
 
         public static DocumentSection[] Parse(string text)
