@@ -1,0 +1,2 @@
+
+[ ] Search and replace "mycoolconsoleapp" with your own app name
